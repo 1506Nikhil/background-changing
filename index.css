@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100%;
+    width: 100;
+}
+
+.heading{
+    position: absolute;
+    top: 25%;
+    left: 41%;
+}
+
+
+.colorgame{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    
+}
+#grey{
+    padding: 7vh;
+    position: relative;
+    top: 40vh;
+    border: 1px solid black;
+    background-color: grey;
+
+}
+#white{
+    padding: 7vh;
+    position: relative;
+    top: 40vh;
+    border: 1px solid black;
+    background-color: white;
+
+}
+#blue{
+    padding: 7vh;
+    position: relative;
+    top: 40vh;
+    border: 1px solid black;
+    background-color: blue;
+
+}
+#yellow{
+    padding: 7vh;
+    position: relative;
+    top: 40vh;
+    border: 1px solid black;
+    background-color: yellow;
+
+}
+
+.line{
+    text-decoration-line: none;
+}
+
+.content{
+    position: absolute;
+    top: 56%;
+    left: 35%;
+}
+
